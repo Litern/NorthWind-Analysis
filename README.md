@@ -24,7 +24,7 @@ The project demonstrates practical skills in **data modeling, DAX measures, KPI 
 
 The **Northwind Sales Dashboard** provides an executive and detailed view of sales performance across products, customers, employees, categories, countries, and time.
 
-The dashboard was designed to help management answer key questions around:
+The dashboard is designed to help management answer key questions around:
 
 - Overall revenue and order performance
 - Year-over-year revenue growth
