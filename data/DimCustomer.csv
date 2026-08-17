@@ -1,0 +1,93 @@
+CustomerID,CompanyName,City,Region,Country
+ALFKI,Alfreds Futterkiste,Berlin,Western Europe,Germany
+ANATR,Ana Trujillo Emparedados y helados,México D.F.,Central America,Mexico
+ANTON,Antonio Moreno Taquería,México D.F.,Central America,Mexico
+AROUT,Around the Horn,London,British Isles,UK
+BERGS,Berglunds snabbköp,Luleå,Northern Europe,Sweden
+BLAUS,Blauer See Delikatessen,Mannheim,Western Europe,Germany
+BLONP,Blondesddsl père et fils,Strasbourg,Western Europe,France
+BOLID,Bólido Comidas preparadas,Madrid,Southern Europe,Spain
+BONAP,Bon app',Marseille,Western Europe,France
+BOTTM,Bottom-Dollar Markets,Tsawassen,North America,Canada
+BSBEV,B's Beverages,London,British Isles,UK
+CACTU,Cactus Comidas para llevar,Buenos Aires,South America,Argentina
+CENTC,Centro comercial Moctezuma,México D.F.,Central America,Mexico
+CHOPS,Chop-suey Chinese,Bern,Western Europe,Switzerland
+COMMI,Comércio Mineiro,Sao Paulo,South America,Brazil
+CONSH,Consolidated Holdings,London,British Isles,UK
+DRACD,Drachenblut Delikatessen,Aachen,Western Europe,Germany
+DUMON,Du monde entier,Nantes,Western Europe,France
+EASTC,Eastern Connection,London,British Isles,UK
+ERNSH,Ernst Handel,Graz,Western Europe,Austria
+FAMIA,Familia Arquibaldo,Sao Paulo,South America,Brazil
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Southern Europe,Spain
+FOLIG,Folies gourmandes,Lille,Western Europe,France
+FOLKO,Folk och fä HB,Bräcke,Northern Europe,Sweden
+FRANK,Frankenversand,München,Western Europe,Germany
+FRANR,France restauration,Nantes,Western Europe,France
+FRANS,Franchi S.p.A.,Torino,Southern Europe,Italy
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Southern Europe,Portugal
+GALED,Galería del gastrónomo,Barcelona,Southern Europe,Spain
+GODOS,Godos Cocina Típica,Sevilla,Southern Europe,Spain
+GOURL,Gourmet Lanchonetes,Campinas,South America,Brazil
+GREAL,Great Lakes Food Market,Eugene,North America,USA
+GROSR,GROSELLA-Restaurante,Caracas,South America,Venezuela
+HANAR,Hanari Carnes,Rio de Janeiro,South America,Brazil
+HILAA,HILARION-Abastos,San Cristóbal,South America,Venezuela
+HUNGC,Hungry Coyote Import Store,Elgin,North America,USA
+HUNGO,Hungry Owl All-Night Grocers,Cork,British Isles,Ireland
+ISLAT,Island Trading,Cowes,British Isles,UK
+KOENE,Königlich Essen,Brandenburg,Western Europe,Germany
+LACOR,La corne d'abondance,Versailles,Western Europe,France
+LAMAI,La maison d'Asie,Toulouse,Western Europe,France
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,North America,Canada
+LAZYK,Lazy K Kountry Store,Walla Walla,North America,USA
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Western Europe,Germany
+LETSS,Let's Stop N Shop,San Francisco,North America,USA
+LILAS,LILA-Supermercado,Barquisimeto,South America,Venezuela
+LINOD,LINO-Delicateses,I. de Margarita,South America,Venezuela
+LONEP,Lonesome Pine Restaurant,Portland,North America,USA
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Southern Europe,Italy
+MAISD,Maison Dewey,Bruxelles,Western Europe,Belgium
+MEREP,Mère Paillarde,Montréal,North America,Canada
+MORGK,Morgenstern Gesundkost,Leipzig,Western Europe,Germany
+NORTS,North/South,London,British Isles,UK
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,South America,Argentina
+OLDWO,Old World Delicatessen,Anchorage,North America,USA
+OTTIK,Ottilies Käseladen,Köln,Western Europe,Germany
+PARIS,Paris spécialités,Paris,Western Europe,France
+PERIC,Pericles Comidas clásicas,México D.F.,Central America,Mexico
+PICCO,Piccolo und mehr,Salzburg,Western Europe,Austria
+PRINI,Princesa Isabel Vinhos,Lisboa,Southern Europe,Portugal
+QUEDE,Que Delícia,Rio de Janeiro,South America,Brazil
+QUEEN,Queen Cozinha,Sao Paulo,South America,Brazil
+QUICK,QUICK-Stop,Cunewalde,Western Europe,Germany
+RANCH,Rancho grande,Buenos Aires,South America,Argentina
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,North America,USA
+REGGC,Reggiani Caseifici,Reggio Emilia,Southern Europe,Italy
+RICAR,Ricardo Adocicados,Rio de Janeiro,South America,Brazil
+RICSU,Richter Supermarkt,Genève,Western Europe,Switzerland
+ROMEY,Romero y tomillo,Madrid,Southern Europe,Spain
+SANTG,Santé Gourmet,Stavern,Scandinavia,Norway
+SAVEA,Save-a-lot Markets,Boise,North America,USA
+SEVES,Seven Seas Imports,London,British Isles,UK
+SIMOB,Simons bistro,Kobenhavn,Northern Europe,Denmark
+SPECD,Spécialités du monde,Paris,Western Europe,France
+SPLIR,Split Rail Beer & Ale,Lander,North America,USA
+SUPRD,Suprêmes délices,Charleroi,Western Europe,Belgium
+THEBI,The Big Cheese,Portland,North America,USA
+THECR,The Cracker Box,Butte,North America,USA
+TOMSP,Toms Spezialitäten,Münster,Western Europe,Germany
+TORTU,Tortuga Restaurante,México D.F.,Central America,Mexico
+TRADH,Tradição Hipermercados,Sao Paulo,South America,Brazil
+TRAIH,Trail's Head Gourmet Provisioners,Kirkland,North America,USA
+VAFFE,Vaffeljernet,Århus,Northern Europe,Denmark
+VALON,IT,,,
+VICTE,Victuailles en stock,Lyon,Western Europe,France
+VINET,Vins et alcools Chevalier,Reims,Western Europe,France
+WANDK,Die Wandernde Kuh,Stuttgart,Western Europe,Germany
+WARTH,Wartian Herkku,Oulu,Scandinavia,Finland
+WELLI,Wellington Importadora,Resende,South America,Brazil
+WHITC,White Clover Markets,Seattle,North America,USA
+WILMK,Wilman Kala,Helsinki,Scandinavia,Finland
+WOLZA,Wolski  Zajazd,Warszawa,Eastern Europe,Poland

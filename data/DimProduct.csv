@@ -1,0 +1,78 @@
+ProductID,ProductName,UnitPrice,IsDiscontinued,CategoryName,SupplierName,SupplierCountry
+1,Chai,18,0,Beverages,Exotic Liquids,UK
+2,Chang,19,0,Beverages,Exotic Liquids,UK
+3,Aniseed Syrup,10,0,Condiments,Exotic Liquids,UK
+4,Chef Anton's Cajun Seasoning,22,0,Condiments,New Orleans Cajun Delights,USA
+5,Chef Anton's Gumbo Mix,21.35,1,Condiments,New Orleans Cajun Delights,USA
+6,Grandma's Boysenberry Spread,25,0,Condiments,Grandma Kelly's Homestead,USA
+7,Uncle Bob's Organic Dried Pears,30,0,Produce,Grandma Kelly's Homestead,USA
+8,Northwoods Cranberry Sauce,40,0,Condiments,Grandma Kelly's Homestead,USA
+9,Mishi Kobe Niku,97,1,Meat/Poultry,Tokyo Traders,Japan
+10,Ikura,31,0,Seafood,Tokyo Traders,Japan
+11,Queso Cabrales,21,0,Dairy Products,Cooperativa de Quesos 'Las Cabras',Spain
+12,Queso Manchego La Pastora,38,0,Dairy Products,Cooperativa de Quesos 'Las Cabras',Spain
+13,Konbu,6,0,Seafood,Mayumi's,Japan
+14,Tofu,23.25,0,Produce,Mayumi's,Japan
+15,Genen Shouyu,15.5,0,Condiments,Mayumi's,Japan
+16,Pavlova,17.45,0,Confections,"Pavlova, Ltd.",Australia
+17,Alice Mutton,39,1,Meat/Poultry,"Pavlova, Ltd.",Australia
+18,Carnarvon Tigers,62.5,0,Seafood,"Pavlova, Ltd.",Australia
+19,Teatime Chocolate Biscuits,9.2,0,Confections,"Specialty Biscuits, Ltd.",UK
+20,Sir Rodney's Marmalade,81,0,Confections,"Specialty Biscuits, Ltd.",UK
+21,Sir Rodney's Scones,10,0,Confections,"Specialty Biscuits, Ltd.",UK
+22,Gustaf's Knäckebröd,21,0,Grains/Cereals,PB Knäckebröd AB,Sweden
+23,Tunnbröd,9,0,Grains/Cereals,PB Knäckebröd AB,Sweden
+24,Guaraná Fantástica,4.5,1,Beverages,Refrescos Americanas LTDA,Brazil
+25,NuNuCa Nuß-Nougat-Creme,14,0,Confections,Heli Süßwaren GmbH & Co. KG,Germany
+26,Gumbär Gummibärchen,31.23,0,Confections,Heli Süßwaren GmbH & Co. KG,Germany
+27,Schoggi Schokolade,43.9,0,Confections,Heli Süßwaren GmbH & Co. KG,Germany
+28,Rössle Sauerkraut,45.6,1,Produce,Plutzer Lebensmittelgroßmärkte AG,Germany
+29,Thüringer Rostbratwurst,123.79,1,Meat/Poultry,Plutzer Lebensmittelgroßmärkte AG,Germany
+30,Nord-Ost Matjeshering,25.89,0,Seafood,Nord-Ost-Fisch Handelsgesellschaft mbH,Germany
+31,Gorgonzola Telino,12.5,0,Dairy Products,Formaggi Fortini s.r.l.,Italy
+32,Mascarpone Fabioli,32,0,Dairy Products,Formaggi Fortini s.r.l.,Italy
+33,Geitost,2.5,0,Dairy Products,Norske Meierier,Norway
+34,Sasquatch Ale,14,0,Beverages,Bigfoot Breweries,USA
+35,Steeleye Stout,18,0,Beverages,Bigfoot Breweries,USA
+36,Inlagd Sill,19,0,Seafood,Svensk Sjöföda AB,Sweden
+37,Gravad lax,26,0,Seafood,Svensk Sjöföda AB,Sweden
+38,Côte de Blaye,263.5,0,Beverages,Aux joyeux ecclésiastiques,France
+39,Chartreuse verte,18,0,Beverages,Aux joyeux ecclésiastiques,France
+40,Boston Crab Meat,18.4,0,Seafood,New England Seafood Cannery,USA
+41,Jack's New England Clam Chowder,9.65,0,Seafood,New England Seafood Cannery,USA
+42,Singaporean Hokkien Fried Mee,14,1,Grains/Cereals,Leka Trading,Singapore
+43,Ipoh Coffee,46,0,Beverages,Leka Trading,Singapore
+44,Gula Malacca,19.45,0,Condiments,Leka Trading,Singapore
+45,Rogede sild,9.5,0,Seafood,Lyngbysild,Denmark
+46,Spegesild,12,0,Seafood,Lyngbysild,Denmark
+47,Zaanse koeken,9.5,0,Confections,Zaanse Snoepfabriek,Netherlands
+48,Chocolade,12.75,0,Confections,Zaanse Snoepfabriek,Netherlands
+49,Maxilaku,20,0,Confections,Karkki Oy,Finland
+50,Valkoinen suklaa,16.25,0,Confections,Karkki Oy,Finland
+51,Manjimup Dried Apples,53,0,Produce,"G'day, Mate",Australia
+52,Filo Mix,7,0,Grains/Cereals,"G'day, Mate",Australia
+53,Perth Pasties,32.8,1,Meat/Poultry,"G'day, Mate",Australia
+54,Tourtière,7.45,0,Meat/Poultry,Ma Maison,Canada
+55,Pâté chinois,24,0,Meat/Poultry,Ma Maison,Canada
+56,Gnocchi di nonna Alice,38,0,Grains/Cereals,Pasta Buttini s.r.l.,Italy
+57,Ravioli Angelo,19.5,0,Grains/Cereals,Pasta Buttini s.r.l.,Italy
+58,Escargots de Bourgogne,13.25,0,Seafood,Escargots Nouveaux,France
+59,Raclette Courdavault,55,0,Dairy Products,Gai pâturage,France
+60,Camembert Pierrot,34,0,Dairy Products,Gai pâturage,France
+61,Sirop d'érable,28.5,0,Condiments,Forêts d'érables,Canada
+62,Tarte au sucre,49.3,0,Confections,Forêts d'érables,Canada
+63,Vegie-spread,43.9,0,Condiments,"Pavlova, Ltd.",Australia
+64,Wimmers gute Semmelknödel,33.25,0,Grains/Cereals,Plutzer Lebensmittelgroßmärkte AG,Germany
+65,Louisiana Fiery Hot Pepper Sauce,21.05,0,Condiments,New Orleans Cajun Delights,USA
+66,Louisiana Hot Spiced Okra,17,0,Condiments,New Orleans Cajun Delights,USA
+67,Laughing Lumberjack Lager,14,0,Beverages,Bigfoot Breweries,USA
+68,Scottish Longbreads,12.5,0,Confections,"Specialty Biscuits, Ltd.",UK
+69,Gudbrandsdalsost,36,0,Dairy Products,Norske Meierier,Norway
+70,Outback Lager,15,0,Beverages,"Pavlova, Ltd.",Australia
+71,Flotemysost,21.5,0,Dairy Products,Norske Meierier,Norway
+72,Mozzarella di Giovanni,34.8,0,Dairy Products,Formaggi Fortini s.r.l.,Italy
+73,Röd Kaviar,15,0,Seafood,Svensk Sjöföda AB,Sweden
+74,Longlife Tofu,10,0,Produce,Tokyo Traders,Japan
+75,Rhönbräu Klosterbier,7.75,0,Beverages,Plutzer Lebensmittelgroßmärkte AG,Germany
+76,Lakkalikööri,18,0,Beverages,Karkki Oy,Finland
+77,Original Frankfurter grüne Soße,13,0,Condiments,Plutzer Lebensmittelgroßmärkte AG,Germany
